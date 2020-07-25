@@ -1,5 +1,3 @@
 pizza
 helado
-pasta
-chocolate
-mariscos
+waffles
