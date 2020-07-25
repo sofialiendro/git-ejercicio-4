@@ -2,3 +2,4 @@ pizza
 helado
 pasta
 chocolate
+mariscos
